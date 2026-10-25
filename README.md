@@ -5,17 +5,15 @@
 
   <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=620&height=30&lines=Purple+Teaming+Aspirant;root%40dr34ith%3A~%24+whoami" alt="DFIR typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=620&height=30&lines=root%40dr34ith%3A~%24+whoami" alt="DFIR typing animation" />
   </a>
 
   <br/>
 
   <!-- BADGES -->
   <img src="https://img.shields.io/badge/Focus-DFIR-A855F7?style=for-the-badge&labelColor=0A0A0A" alt="DFIR" />
-  <img src="https://img.shields.io/badge/Role-Intern-7C3AED?style=for-the-badge&labelColor=0A0A0A" alt="Intern" />
+  <img src="https://img.shields.io/badge/Aspiring-Purple-7C3AED?style=for-the-badge&labelColor=0A0A0A" alt="Intern" />
   <img src="https://img.shields.io/badge/Status-Learning-5B21B6?style=for-the-badge&labelColor=0A0A0A" alt="Learning" />
-  <img src="https://komarev.com/ghpvc/?username=dr34ith&label=Profile+Views&color=A855F7&style=for-the-badge&labelColor=0A0A0A" alt="Views" />
-
   <br/><br/>
   <sub><i>"I need to learn how to enjoy things."</i></sub>
   <br/><br/>
