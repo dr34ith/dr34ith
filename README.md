@@ -12,7 +12,6 @@
 
   <!-- BADGES -->
   <img src="https://img.shields.io/badge/Focus-DFIR-A855F7?style=for-the-badge&labelColor=0A0A0A" alt="DFIR" />
-  <img src="https://img.shields.io/badge/Aspiring-Purple-7C3AED?style=for-the-badge&labelColor=0A0A0A" alt="Intern" />
   <img src="https://img.shields.io/badge/Status-Learning-5B21B6?style=for-the-badge&labelColor=0A0A0A" alt="Learning" />
   <br/><br/>
   <sub><i>"I need to learn how to enjoy things."</i></sub>
