@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=dr34ith&label=Profile+Views&color=A855F7&style=for-the-badge&labelColor=0A0A0A" alt="Views" />
 
   <br/><br/>
-  <sub><i>"I'd rather be alone; people keep giving me reasons to be. lol"</i></sub>
+  <sub><i>"I need to learn how to enjoy things."</i></sub>
   <br/><br/>
 
   <!-- DIVIDER -->
@@ -40,12 +40,14 @@ fun_fact: "I trust logs more than people."
 ## `> toolkit`
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=A855F7" />
+ <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=A855F7" />
   <img src="https://img.shields.io/badge/Bash-0A0A0A?style=for-the-badge&logo=gnubash&logoColor=A855F7" />
   <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/Wireshark-0A0A0A?style=for-the-badge&logo=wireshark&logoColor=A855F7" />
   <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/Flask-0A0A0A?style=for-the-badge&logo=flask&logoColor=A855F7" />
   <img src="https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logo=vercel&logoColor=A855F7" />
 </div>
 
