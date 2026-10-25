@@ -31,10 +31,9 @@
 
 ```yaml
 name: dr34ith
-role: DFIR Intern
-interests: [phishing analysis, malware triage, memory forensics, log analysis]
+trait: ambitious
+current_interests: [phishing analysis, malware triage, memory forensics, log analysis]
 currently_learning: [Volatility, Wireshark, Sigma rules, YARA, EZTools]
-fun_fact: "I trust logs more than people."
 ```
 
 ## `> toolkit`
