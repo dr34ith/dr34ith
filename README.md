@@ -62,6 +62,7 @@ currently_learning: [Volatility, Wireshark, Sigma rules, YARA, EZTools]
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=dr34ith&show_icons=true&theme=transparent&title_color=A855F7&text_color=C9C9C9&icon_color=A855F7&border_color=5B21B6" alt="Stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr34ith&layout=compact&theme=transparent&title_color=A855F7&text_color=C9C9C9&border_color=5B21B6" alt="Top Langs" />
   <br/>
+  <img src="https://cdn-images.tryhackme.com/public-profile/Dreaith/badge-dark-5926cb54b412.png" width="460" alt="TryHackMe badge"/>
   <img src="https://streak-stats.demolab.com?user=dr34ith&theme=transparent&ring=A855F7&fire=A855F7&currStreakLabel=C9C9C9&sideLabels=C9C9C9&currStreakNum=A855F7&sideNums=A855F7&dates=7C7C7C&stroke=5B21B6&border=5B21B6" alt="Streak" />
 </div>
 
