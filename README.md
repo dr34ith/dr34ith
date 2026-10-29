@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- HEADER -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:050505,40:19051F,70:5B21B6,100:A855F7&text=DR34ITH&fontColor=E9D5FF&fontSize=38&fontAlign=50&fontAlignY=40&animation=twinkling&section=header&desc=EXPLORER%20KIDDIE&descSize=12&descColor=C9C9C9&descAlignY=68" alt="DR34ITH" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:050505,40:19051F,70:5B21B6,100:A855F7&text=DR34ITH&fontColor=6D28D9&fontSize=38&fontAlign=50&fontAlignY=40&animation=twinkling&section=header&desc=EXPLORER%20KIDDIE&descSize=12&descColor=C9C9C9&descAlignY=68" alt="DR34ITH" />
 
   <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
@@ -13,15 +13,11 @@
   <!-- BADGES -->
   <img src="https://img.shields.io/badge/Focus-DFIR-A855F7?style=for-the-badge&labelColor=0A0A0A" alt="DFIR" />
   <img src="https://img.shields.io/badge/Status-Learning-5B21B6?style=for-the-badge&labelColor=0A0A0A" alt="Learning" />
+  <img src="https://komarev.com/ghpvc/?username=dr34ith&label=Viewers&color=7C3AED&style=for-the-badge&labelColor=0A0A0A" alt="Profile viewers" />
 
   <br/><br/>
   <sub><i>"I need to learn how to enjoy things."</i></sub>
   <br/><br/>
-
-  <!-- DIVIDER -->
-  <img width="50%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A0A0A,50:A855F7,100:7C3AED" alt="" />
-
-</div>
 
   <!-- DIVIDER -->
   <img width="50%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A0A0A,50:A855F7,100:7C3AED" alt="" />
@@ -88,6 +84,12 @@ currently_learning: [Volatility, Wireshark, Sigma rules, YARA, EZTools]
   <br/><br/>
   <img src="https://cdn-images.tryhackme.com/public-profile/Dreaith/badge-dark-5926cb54b412.png" width="460" alt="TryHackMe badge"/>
   <img src="https://streak-stats.demolab.com?user=dr34ith&theme=transparent&ring=A855F7&fire=A855F7&currStreakLabel=C9C9C9&sideLabels=C9C9C9&currStreakNum=A855F7&sideNums=A855F7&dates=7C7C7C&stroke=5B21B6&border=5B21B6" alt="Streak" />
+</div>
+
+## `> contributions`
+
+<div align="center">
+  <img src="./assets/snake.svg" alt="Contribution snake" width="100%" />
 </div>
 
 <!-- FOOTER -->
