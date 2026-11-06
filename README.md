@@ -11,7 +11,6 @@
   <br/>
 
   <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Focus-DFIR-A855F7?style=for-the-badge&labelColor=0A0A0A" alt="DFIR" />
   <img src="https://img.shields.io/badge/Status-Learning-5B21B6?style=for-the-badge&labelColor=0A0A0A" alt="Learning" />
   <img src="https://komarev.com/ghpvc/?username=dr34ith&label=Viewers&color=7C3AED&style=for-the-badge&labelColor=0A0A0A" alt="Profile viewers" />
 
@@ -32,22 +31,8 @@
 name: dr34ith
 trait: ambitious
 current_interests: [phishing analysis, malware triage, memory forensics, log analysis]
-currently_learning: [Volatility, Wireshark, Sigma rules, YARA, EZTools]
+what_i_love : [pentesting, but im  on break;<]
 ```
-
-## `> toolkit`
-
-<div align="center">
- <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/Bash-0A0A0A?style=for-the-badge&logo=gnubash&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logo=vercel&logoColor=A855F7" />
-</div>
 
 ## `> featured projects`
 
