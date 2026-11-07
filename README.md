@@ -21,43 +21,6 @@
   <!-- DIVIDER -->
   <img width="50%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A0A0A,50:A855F7,100:7C3AED" alt="" />
 
-</div>
-
-<br/>
-
-## `> whoami`
-
-```yaml
-name: dr34ith
-trait: ambitious
-current_interests: [phishing analysis, malware triage, memory forensics, log analysis]
-what_i_love : [pentesting, but im  on break;<]
-```
-
-## `> featured projects`
-
-<div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/dr34ith/PhishyLens">📌 PhishyLens</a></h3>
-      <sub>Web app that analyzes URLs, emails, file hashes and IP addresses for phishing and malware indicators, with an Assistant feature.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=A855F7" alt="Python" />
-      <img src="https://img.shields.io/github/stars/dr34ith/PhishyLens?style=flat-square&color=5B21B6&labelColor=0A0A0A" alt="Stars" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/dr34ith/CyberFeed">📌 CyberFeed</a></h3>
-      <sub>Personal cybersecurity platform that aggregates security news, threat advisories, vulnerability reports and educational books, with a book-style PDF reader.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=A855F7" alt="JavaScript" />
-      <img src="https://img.shields.io/github/stars/dr34ith/CyberFeed?style=flat-square&color=5B21B6&labelColor=0A0A0A" alt="Stars" />
-      <a href="https://dr34ith.github.io/CyberFeed/"><img src="https://img.shields.io/badge/Live-Demo-A855F7?style=flat-square&labelColor=0A0A0A" alt="Live demo" /></a>
-    </td>
-  </tr>
-</table>
-</div>
-
 
 ## `> stats`
 
