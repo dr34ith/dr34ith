@@ -1,44 +1,38 @@
 <div align="center">
 
-  <!-- HEADER -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:050505,40:19051F,70:5B21B6,100:A855F7&text=DR34ITH&fontColor=6D28D9&fontSize=38&fontAlign=50&fontAlignY=40&animation=twinkling&section=header&desc=EXPLORER%20KIDDIE&descSize=12&descColor=C9C9C9&descAlignY=68" alt="DR34ITH" />
+<img src="./assets/banner.svg" width="100%" alt="DR34ITH. Hello there, my name is Dreaith. Cybersecurity student, learning by building." />
 
-  <!-- TYPING ANIMATION -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=620&height=30&lines=root%40dr34ith%3A~%24+whoami;Explorer+kiddie" alt="Typing animation" />
-  </a>
-
-  <br/>
-
-  <!-- BADGES -->
-  <img src="https://img.shields.io/badge/Status-Learning-5B21B6?style=for-the-badge&labelColor=0A0A0A" alt="Learning" />
-  <img src="https://komarev.com/ghpvc/?username=dr34ith&label=Viewers&color=7C3AED&style=for-the-badge&labelColor=0A0A0A" alt="Profile viewers" />
-
-  <br/><br/>
-  <sub><i>"I need to learn how to enjoy things."</i></sub>
-  <br/><br/>
-
-  <!-- DIVIDER -->
-  <img width="50%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0A0A0A,50:A855F7,100:7C3AED" alt="" />
-
-
-## `> stats`
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/dr34ith?style=for-the-badge&logo=github&logoColor=A855F7&color=5B21B6&labelColor=0A0A0A" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/dr34ith/PhishyLens?style=for-the-badge&logo=github&logoColor=A855F7&label=PhishyLens%20Stars&color=5B21B6&labelColor=0A0A0A" alt="PhishyLens stars" />
-  <img src="https://img.shields.io/github/stars/dr34ith/CyberFeed?style=for-the-badge&logo=github&logoColor=A855F7&label=CyberFeed%20Stars&color=5B21B6&labelColor=0A0A0A" alt="CyberFeed stars" />
-  <img src="https://img.shields.io/github/languages/count/dr34ith/PhishyLens?style=for-the-badge&logo=python&logoColor=A855F7&label=PhishyLens%20Languages&color=5B21B6&labelColor=0A0A0A" alt="Languages" />
-  <br/><br/>
-  <img src="https://cdn-images.tryhackme.com/public-profile/Dreaith/badge-dark-5926cb54b412.png" width="460" alt="TryHackMe badge"/>
-  <img src="https://streak-stats.demolab.com?user=dr34ith&theme=transparent&ring=A855F7&fire=A855F7&currStreakLabel=C9C9C9&sideLabels=C9C9C9&currStreakNum=A855F7&sideNums=A855F7&dates=7C7C7C&stroke=5B21B6&border=5B21B6" alt="Streak" />
 </div>
 
-## `> contributions`
+<br/>
+
+```
+dr34ith@wraith:~$ cat about.txt
+
+I'm a 4th-year BSIT student who learned most of what I know
+the hands-on way: labs, CTFs, and small projects. I'm still
+figuring out which part of tech I want to focus on, and I turn
+what I learn into blog posts and writeups.
+```
+
+```
+dr34ith@wraith:~$ cat currently.txt
+
+Building home labs and practicing more with EZ Tools
+Writing Medium blogs, doing packet analysis, YARA, and forensics
+Developing my capstone mobile application
+
+Soon: malware analysis, bug bounty
+```
 
 <div align="center">
-  <img src="./assets/snake.svg" alt="Contribution snake" width="100%" />
+  <a href="https://dr34ith.github.io/"><img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0A0A0A" alt="Portfolio" /></a>
+  <a href="https://medium.com/@dreaith"><img src="https://img.shields.io/badge/Medium-5B21B6?style=for-the-badge&logo=medium&logoColor=white&labelColor=0A0A0A" alt="Medium" /></a>
 </div>
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:A855F7,50:5B21B6,100:050505&section=footer" alt="" />
+<br/>
+
+```
+dr34ith@wraith:~$ echo "I need to learn how to enjoy things."
+I need to learn how to enjoy things.
+```
